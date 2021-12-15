@@ -19,3 +19,5 @@ LibADX/Makefile
 The example player uses a hard-coded file name, so make sure
 to include a "sample.adx" on the root of the /cd/, or modify
 the source libADXplay.c to load a different file.
+Low cpu time use and you can use this encoder
+https://github.com/Isaac-Lozano/radx/releases
