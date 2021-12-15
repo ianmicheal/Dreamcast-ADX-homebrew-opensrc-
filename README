@@ -21,3 +21,7 @@ to include a "sample.adx" on the root of the /cd/, or modify
 the source libADXplay.c to load a different file.
 Low cpu time use and you can use this encoder
 https://github.com/Isaac-Lozano/radx/releases
+compiled just make  add an adx file called sample.adx and make a selfboot cdi using 
+the included compiled elf or compiled your own
+
+Ian micheal
